@@ -1,10 +1,1 @@
-
-5.1 Teoría de la decisión Bayesiana
-
-5.2 Elección del modelo "correcto"
-
-5.3 Teoría de la decisión frecuentista
-
-5.4 Minimización del riesgo empírico
-
-5.5 Test de hipótesis frecuentista
+La **teoría de la decisión Bayesiana** es el marco formal que seguimos para escoger acciones a realizar a partir de modelo probabilísticos. Por brevedad, veremos la sección 5.1.
