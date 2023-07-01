@@ -1,1 +1,1 @@
-La **teoría de la decisión Bayesiana** es el marco formal que seguimos para escoger acciones a realizar a partir de modelo probabilísticos. Por brevedad, veremos la sección 5.1.
+La **teoría de la decisión Bayesiana** es el marco formal que seguimos para escoger acciones a realizar a partir de modelos probabilísticos. Por brevedad, veremos la sección 5.1.
