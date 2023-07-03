@@ -1,0 +1,1 @@
+La **teoría de la información** se ocupa del estudio matemático de la cuantificación, almacenamiento y comunicación de información. Se halla estrechamente relacionada con la teoría de la probabilidad, estadística e informática.
