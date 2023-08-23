@@ -1,0 +1,5 @@
+digraph { rankdir=LR {rank=same x1 x2}
+x1 [shape="none"] x2 [shape="none"] x7 [shape="none", label="x7 = o"]
+x1 -> f3 x1 -> f5 x2 -> f4 f3 -> f4 [label="x3"] f4 -> f5 [label="x4"] f4 -> f7 [label="x4"]
+f5 -> f6 [label="x5"] f6 -> f7 [label="x6"] f7 -> x7
+}
