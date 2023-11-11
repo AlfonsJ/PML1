@@ -1,1 +1,1 @@
-Material docente sobre aprendizaje automático basado en el libro de Kevin Murphy "Probabilistic Machine Learning: An Introduction" (PML)
+Material docente sobre aprendizaje automático basado en el libro de Kevin Murphy "Probabilistic Machine Learning: An Introduction" (PML1)
